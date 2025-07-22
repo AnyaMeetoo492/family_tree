@@ -12,7 +12,7 @@ Easily visualize and explore your family tree using Streamlit and PyVis.
 
 2. **Install dependencies:**
     ```bash
-    pip install streamlit pyvis
+    pip install streamlit pyvis firebase-admin
     ```
 
 3. **Run the app:**
